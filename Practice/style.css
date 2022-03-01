@@ -1,0 +1,13 @@
+.bangla{
+  height: 200px;
+  width: 400px;
+  background-color:green;
+  position: relative;
+}
+.bangla::after{
+  background-color:red;
+  height: 200px;
+  width: 200px;
+  border-radius:50%;
+  position: relative;
+}

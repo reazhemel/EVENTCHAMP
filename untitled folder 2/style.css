@@ -1,0 +1,77 @@
+.one{
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  background: rgb(135, 177, 135);
+}
+.two{
+  width: 600px;
+  height: 300px;
+  background: rgb(124, 124, 155);
+}
+.three{
+  width: 600px;
+  height: 300px;
+  background: yellowgreen;
+}
+.two1{
+  width: 300px;
+  height: 150px;
+  background: rgb(0, 255, 213);
+  float: left;
+}
+.two2{
+  width: 300px;
+  height: 150px;
+  background: purple;
+  float: left;
+}
+.two3{
+  width: 150px;
+  height: 75px;
+  background: rgb(168, 42, 42);
+}
+.two4{
+  width: 150px;
+  height: 75px;
+  background: rgb(43, 4, 4);
+}
+.three1{
+  width: 300px;
+  height: 150px;
+  background:rgb(208, 255, 0);
+  float: left;
+}
+.three2{
+  width: 300px;
+  height: 150px;
+  background: rgb(54, 51, 51);
+  float: left;
+}
+.three3{
+  width: 150px;
+  height: 75px;
+  background: rgb(26, 1, 1);
+  float: left;
+}
+.three4{
+  width: 150px;
+  height: 75px;
+  background: rgb(107, 30, 30);
+  float: left;
+}
+.three5{
+  width: 150px;
+  height: 75px;
+  background: rgb(85, 66, 66);
+}
+.three6{
+  width: 150px;
+  height: 75px;
+  background:rgb(95, 51, 51);
+}
+.four{
+  width: 600px;
+  height: 300px;
+  background: rgb(238, 10, 10);
+}

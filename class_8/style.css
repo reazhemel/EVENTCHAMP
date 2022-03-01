@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+p{
+  position: relative;
+}
+p::after{
+  content: " ";
+  background: red;
+  width: 80%;
+  height:5px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  transition:0.5s;
+}
+p::before{
+  content: " ";
+  background: red;
+  width: 80%;
+  height:5px;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  ransition:0.5s;
+}
+p:hover::after{
+  width: 80%;
+}
+p:hover::before{
+  width: 80%;
+}
